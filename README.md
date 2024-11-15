@@ -183,7 +183,7 @@ mylapore.html
 </html>
 ```
 
-rail.html
+railmuseum.html
 ```
 <html>
 <head>
@@ -270,12 +270,24 @@ tnagar.html
 ## OUTPUT
 
 ![alt text](<Chennai map.png>)
-![alt text](<egmore op.png>)
-![alt text](<marina op.png>)
-![alt text](<mylapore op.png>)
-![alt text](<rail op.png>)
-![alt text](<tnagar op.png>)
+
+![alt text](<egmore opf.png>)
+
+
+![alt text](<marina opf.png>)
+
+
+![alt text](<mylapore opf.png>)
+
+
+![alt text](<rail opf.png>)
+
+
+![alt text](<tnagar opf.png>)
+
+
 ![alt text](terminal.png)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
